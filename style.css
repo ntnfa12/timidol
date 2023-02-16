@@ -1,0 +1,124 @@
+.font-family{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 999;
+  }
+  
+  .menu-left {
+    float: left;
+    margin-left: 50px;
+  }
+  
+  .menu-right {
+    float: right;
+    margin-right: 50px;
+  }
+  
+  .menu-link {
+    display: inline-block;
+    line-height: 50px;
+    padding: 0 20px;
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 2px;
+  }
+  
+  .menu-link:hover {
+    background: rgb(173, 170, 170);
+  }
+  .img1 {
+    width: 100%;
+    height: auto;
+  }
+  .project{
+    margin-left: 40px;
+  }
+  .project img {
+    margin: 10px;
+  }
+  .about{
+    margin-left: 40px;
+  }
+  .about h3 {
+    margin-left:15px; 
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  .rel {
+    margin-left:15px; 
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  .image-container {
+    display: flex;
+  }
+
+  .profile {
+    width: 23%;
+    margin: 10px; /* Tạo khoảng cách giữa các ảnh */
+  }
+
+  .profile img {
+    width: 100%;
+  }
+  .CT{
+    text-align: center;
+    font-size: 20px;
+    background-color: #eee;
+    padding: 10px;
+
+  }
+  .CT:hover{
+    background: rgb(182, 167, 167);
+  }
+  input[type="text"] {
+    margin-bottom: 10px;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+    margin-left: 15px;
+    width: 96%;
+    height: 40px;
+  }
+  button[type="submit"]{
+    margin-top: 20px;
+    background: black;
+    color: white;
+    height: 40px;
+    margin-left: 15px;
+    width: 170px;
+  }
+  button[type="submit"]:hover {
+    color: black;
+    background-color: #747574;
+  }
+  .nen{
+    margin-left: 15px;
+    margin-top: 40px;
+    width:96%;
+  }
+  .end{
+    height: 60px;
+    width: 100%;
+    background: black;
+  }
+  .w3{
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  
+  
+  
+  
+  
